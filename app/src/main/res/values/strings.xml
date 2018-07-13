@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DemoRecycleView</string>
+    <string name="iron">Iron Man</string>
+    <string name="spider">Spider Man</string>
+    <string name="thor">Thor</string>
+    <string name="tphong">Tieu Phong</string>
 </resources>
